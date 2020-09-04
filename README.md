@@ -16,19 +16,19 @@ Over time, I will become used to attending three-hour lessons. However, from nex
 ### What theory proved to be useful and why? What have I learnt from this?
 I came to the lesson prepared to take notes, but I believe the best way to learn in this class is to listen first and write what you learn after. I tried this method of learning for the last part of the tutorial and found that I remembered more of the things that I heard than what I wrote in my notes. 
 
-##Week 2
-###What have I learnt this week?
+## Week 2
+### What have I learnt this week?
 This week I learnt the difference between a model and a good model is parsimony, which defines the best model to be the one with the greatest realism along with the least parameter and model complexity. I learnt a couple new concepts such as mental models and the wisdom of crowds. 
-###What do I ‘now know’ that I did not know before?
+### What do I ‘now know’ that I did not know before?
 Modelling is not new. People use models every day to comprehend their surroundings, e.g. a map. Another thing I learnt that I did not know before is that through the use of wisdom of crowds, people were able to determine almost the exact location of a missing submarine. I learnt the concept of many model thinking and that involving the use of a handful of models can be used to better understand a particular situation/idea. 
-###What insights have I gained?
+### What insights have I gained?
 I have gained further insight as to how models are used in everyday life. Learning about wisdom of crowds made me wonder how connected and in sync human beings are as a species especially with the example about the missing submarine. Even if people were far off the right answer, other people’s bad guesses averaged it out to a specific location where the submarine was found. My understanding of why modelling is important has increased significantly after this week’s lesson.
-###What are (my/the) perceived strengths and weaknesses that I have observed?
+### What are (my/the) perceived strengths and weaknesses that I have observed?
 I enjoy the content being taught so far making it easier for me to learn.
 The weakness I found was I found the mathematics used in the tutorial slide hard to understand which may present as a problem further in the semester. 
-###What were the challenges I have encountered/observed and how well did (I / my team) handle them?
+### What were the challenges I have encountered/observed and how well did (I / my team) handle them?
 I still struggled to stay engaged through a 3-hour lesson the week before but that had improved. I think this can be improved over time as I get used to taking classes. 
-###What would I do better next time and with what anticipated results?
+### What would I do better next time and with what anticipated results?
 Next class I plan on being as engaged in class as I was this week and try to have as little concentration lapses as I can.
-###What theory proved to be useful and why? What have I learnt from this?
+### What theory proved to be useful and why? What have I learnt from this?
 I tried my theory last week of just listening during class and I found myself a lot more engaged in the class. However, I felt as though I retained more information when writing my notes so I might make notes of key concepts to help me remember them after class. 
