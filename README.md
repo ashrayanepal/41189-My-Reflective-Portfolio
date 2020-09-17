@@ -32,3 +32,20 @@ I still struggled to stay engaged through a 3-hour lesson the week before but th
 Next class I plan on being as engaged in class as I was this week and try to have as little concentration lapses as I can.
 ### What theory proved to be useful and why? What have I learnt from this?
 I tried my theory last week of just listening during class and I found myself a lot more engaged in the class. However, I felt as though I retained more information when writing my notes so I might make notes of key concepts to help me remember them after class. 
+
+## Week 3
+### What have I learnt this week?
+This week I learnt how to model how people behave. This was done by looking at multiple models that can be used including rational models, behavioural models and rule-based models. I also learnt models that show how people decide. In situations of uncertainty, classical, frequency and subjective probability can be used to help make decisions. This can be modelled through the use of decision trees. I learnt how models can show how people conceal/reveal information. This was demonstrated through signaling models such as discrete signaling and continuous signaling. I was shown how people can add value and power through the last on the bus value and the Shapley value. Finally, I learnt how people solve problems in groups through the idea that innovation comes from diversity in group members, helping groups to create new ideas and recombine them in a particular manner. 
+### What do I ‘now know’ that I did not know before?
+I now know many more models than I previously did. I learnt that all models cannot be applied to the same situation with consistent effectiveness (certain situations require different models). This was learnt through the learning of classical, frequency and subjective probability, and that three different types of probability are required to adapt the situation to the model. 
+### What insights have I gained?
+On top of last week’s insights of models being used in everyday life, I have now realised that models can be seen in every situation in life. Learning that human interaction, behaviour, and how people work in groups can be modelled has helped me realise this. 
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I believe my strengths in this subject are learning about models or concepts that apply to people and their minds. I discovered I have a interest in the psychological side of people and I find learning about that interesting 
+My weakness I still believe is the mathematical side of the subject.
+### What were the challenges I have encountered/observed and how well did (I / my team) handle them?
+I found concentrating throughout a 3-hour lesson hard in the first 2 weeks but this week I found myself focused throughout the lesson. The breaks between the sections have helped me maintain focus throughout.
+### What would I do better next time and with what anticipated results?
+For next lesson I need to find a group of 4 for the assignment. I have a friend in the class already and need to gather 2 other people to form a group and hopefully by reaching out to classmates, I can form a group by next lesson.
+### What theory proved to be useful and why? What have I learnt from this?
+Listening and taking important side notes has seemed to be the most effective way I have learnt in this subject. I noticed that at the start of the lesson when we recap last week’s work, I am able to remember everything talked about during last lesson. I learnt that this is the most effective way for me to learn during this subject.
