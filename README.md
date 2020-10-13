@@ -49,3 +49,24 @@ I found concentrating throughout a 3-hour lesson hard in the first 2 weeks but t
 For next lesson I need to find a group of 4 for the assignment. I have a friend in the class already and need to gather 2 other people to form a group and hopefully by reaching out to classmates, I can form a group by next lesson.
 ### What theory proved to be useful and why? What have I learnt from this?
 Listening and taking important side notes has seemed to be the most effective way I have learnt in this subject. I noticed that at the start of the lesson when we recap last week’s work, I am able to remember everything talked about during last lesson. I learnt that this is the most effective way for me to learn during this subject.
+
+## Week 4
+### What have I learnt this week?
+This week we learnt three new models in which to model complex adaptive systems. These models are system dynamic models, network models, and agent-based models. A lot of modern problems are driven by feedback, time delays and nonlinearities and system dynamic models are what help represent these features. Modelling networks is done by determining the structure, logic and functionality of the network. Agent-based models are mental models that can help manage and improve complex adaptive systems. Society can be modelled and improved in this manner.  
+We also created our group for the group assignment today. My group consists of Aniket, Akash, Redah and myself.
+### What do I ‘now know’ that I did not know before?
+I now know three different models. I know that these models can be applied to real life scenarios just like all the other models. I realised that models can be learnt to prevent or improve current living situations such as COVID-19. Modelling can help improve the way we try and rid of the virus and how we approach keeping people safe. 
+### What insights have I gained?
+I have gained three new lenses in which I can model the world. I have already noticed these models being used in everyday situations. I gained insight into how models can help improve the situation of the current global pandemic of the coronavirus.
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+From this week and previous weeks, I found it true that I find learning about models that apply to society the most interesting. This week I found agent-based modelling to be the most interesting one out of the three. Another strength I found was that it was easy for me to find a group through social connections outside of class. 
+My weaknesses I still believe is the mathematical understanding required for some concepts. 
+### What were the challenges I have encountered/observed and how well did (I / my team) handle them?
+After we chose teams this week, we had to select someone to be the leader to communicate with the tutor. Initially none of us wanted to be the leader as no one wanted to have additional pressure put onto them. However, after discussing that the leader will only be the spokesperson for the group and will not have to take on additional work, we chose the person with the best speaking skills to be our leader.
+### What would I do better next time and with what anticipated results?
+I am now finding it much easier to pay attention throughout the whole lesson. 
+Next week our group needs to have discussed and decided on which topic we will be addressing for our assignment. This needs to be done before managing workload throughout the group.
+### What theory proved to be useful and why? What have I learnt from this?
+I have continued to listen during class while taking important side notes to help me remember key topics after each lesson. I still believe this is the most effective way for me to learn concepts in this subject. 
+Engaging in conversation with my group will help to make sure everyone is invested into the group work as much as I am and that no one slacks off doing work. This is a theory I have about groupwork that I have yet to test. 
+
