@@ -70,3 +70,21 @@ Next week our group needs to have discussed and decided on which topic we will b
 I have continued to listen during class while taking important side notes to help me remember key topics after each lesson. I still believe this is the most effective way for me to learn concepts in this subject. 
 Engaging in conversation with my group will help to make sure everyone is invested into the group work as much as I am and that no one slacks off doing work. This is a theory I have about groupwork that I have yet to test. 
 
+## Week 5
+### What have I learnt this week?
+This week we were introduced to the concepts of probability distribution, normal distribution and long-tailed distributions. Probability distribution simply put, is the list of all possible outcomes accompanied with their corresponding probability values. These are usually represented in line graphs and they help us understand the aggregate of action in complex systems. Normal distribution is a type of continuous probability distribution which is a bell curve symmetrical in shape. The width and the peak usually will depend on two parameters: the mean and the standard deviation. Long-tailed distributions are hyperbola shaped curves with their shape affected by its power (mathematical). These are used in instances of a large event that has a sufficient enough probability to be concerned of (e.g. COVID-19).  
+### What do I ‘now know’ that I did not know before?
+One of my other subjects, business statistics, regularly uses probability distributions. I have been able to see how they can be used to model real life situations which has changed the way I see how distribution works.
+### What insights have I gained?
+I have been provided a new lens to look through the world in through the concept of probability distribution. I have further broadened my knowledge on how mathematics can be applied to real life situations, more specifically with probability distributions. 
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I have not observed any new strengths. 
+I have still observed that I am a bit slower at grasping and understanding concepts that involve mathematics in them. 
+### What were the challenges I have encountered/observed and how well did (I / my team) handle them?
+This week we had to decide which sections that each person would do for the assignment. We decided to overcome this challenge by having a private call in which we discussed which parts we all felt the most comfortable with and split the workload evenly according to everyone’s preferences. 
+As mentioned previously, I still have problems with understanding concepts involving mathematics, but I will work towards overcoming this through further individual practice with math problems. 
+### What would I do better next time and with what anticipated results?
+Next week, our group needs to have made progress on the group assignment. We have to make it a point to at least get work done earlier rather than later.
+### What theory proved to be useful and why? What have I learnt from this?
+Notes during class has still been the most effective way for me to learn.
+I still believe that staying in touch with group members will ensure that everyone feels the same amount of responsibility to getting their work done. I will further be doing this in the next couple of weeks before the pre-submission due date.
