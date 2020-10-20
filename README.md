@@ -88,3 +88,23 @@ Next week, our group needs to have made progress on the group assignment. We hav
 ### What theory proved to be useful and why? What have I learnt from this?
 Notes during class has still been the most effective way for me to learn.
 I still believe that staying in touch with group members will ensure that everyone feels the same amount of responsibility to getting their work done. I will further be doing this in the next couple of weeks before the pre-submission due date.
+
+## Week 6
+### What have I learnt this week?
+This week, we learnt about Markov models, Random Walk models and the riot, broadcast, diffusion, and contagion models. Markov models are often used for situations where something can transition into something else (e.g. sunny weather to rainy weather, alert students to bored students). The general assumptions for this model are that there is a finite number of states, fixed transition probabilities, eventually goes from one state to another and it is not a simple cycle. Random Walk models are used for situations where a path is to be determined from a number of random steps, which involves finding the probabilities of which direction the next step is being taken. The riot model is a model that measures individuals’ threshold for rioting and can determine which locations riots are most likely to occur. The broadcast model measures the spread of ideas or information through any form of media. A formula is derived which determines that the number of informed people at a given time = number of people informed in previous period + probability a susceptible person hears information x number of susceptible people. The diffusion model is used to determine how a particular innovation is doing in the market. This is done by calculating the spread of purchases through a mathematical formula, similar to the broadcast model formula. The contagion model is designed to measure the spread of diseases and can estimate probabilities of more spreading and recovery. This model can also be applied to books, songs, phrases and exercise regimes.  
+### What do I ‘now know’ that I did not know before?
+I now know that a majority of the models learnt so far have some sort of mathematical element to it (e.g. a derived formula). I have furthered my knowledge in models and now know that there is literally a model for every single situation. 
+### What insights have I gained?
+I have gained new lenses to look at the world through six new models. I found modelling the riots to be a very interesting concept and have never looked at the potential of riots to be due to individual human thresholds. 
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I have perceived no new strengths since last lesson.
+I have also perceived no new weaknesses but have been further confused with mathematical concepts. However, I have realised it is more important to understand how the model works rather than the mathematics behind it. I am still working to better understand these concepts mathematically. 
+### What were the challenges I have encountered/observed and how well did (I / my team) handle them?
+For our assignment this week, in my pair we discussed which models we were going to use for the assignment. We decided to have a meeting and came up with two models: Agent-based model and behavioural model. We still have one more model to decide on, but we have started working on writing our parts for the other two.
+As previously mentioned, I had struggled with mathematical concepts and am working on improving my understanding on these.
+### What would I do better next time and with what anticipated results?
+Next week we need to determine our other model we are going to use for our assignment. We also need to continue working on the sections with the other models.
+I also need to get better with mathematical concepts.
+### What theory proved to be useful and why? What have I learnt from this?
+Short notes during class has been a very good way for me to learn so far. 
+Staying in touch with group members is a key component in making sure everyone is engaged in the task at hand and lowers the chance of a group member slacking off. I will continue to do this in the future before the pre-submission.
