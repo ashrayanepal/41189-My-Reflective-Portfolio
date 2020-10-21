@@ -108,3 +108,21 @@ I also need to get better with mathematical concepts.
 ### What theory proved to be useful and why? What have I learnt from this?
 Short notes during class has been a very good way for me to learn so far. 
 Staying in touch with group members is a key component in making sure everyone is engaged in the task at hand and lowers the chance of a group member slacking off. I will continue to do this in the future before the pre-submission.
+
+## Week 7
+### What have I learnt this week?
+This week we learnt a couple of new models. We learnt about peer effects and social contagion and the models that come under this category are the segregation model, riot model and standing ovation model. The segregation model looks at the fact that there is widespread racial and income segregation in most parts of the world. The model is mainly used with whether someone should stay in a certain area or not based on if they fit the racial or economic situation in their area. The riot model and the standing ovation model are models that have already been looked at in other sections of this subject. We learnt about coordination and culture and how culture can be modelled through a series of coordination games. This is used in the culture model where if people meet/interact with each other, they gain each other’s cultural habits or traits. We also learnt about social learning which looks at similar things to coordination and culture. However, it focuses more on the aspect of leaders’ vs sheep, where a part of the population would lead a certain trend or fashion and the sheep will follow. 
+### What do I ‘now know’ that I did not know before?
+Although I was aware that models could be used for everything, I was not aware that cultural spread could be modelled until this week. I found it very interesting that the spread of habits such as taking your shoes off before entering the house could be modelled. 
+### What insights have I gained?
+I have gained new lenses to look at the world through the knowledge of new models. Particularly, the modelling of cultural spread which I found to be the most interesting.
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+Again, I noticed that when models were applied to certain real-life situations that were relevant to my current situation, I found them a lot easier to understand and learn about.
+I noticed with the mathematics presented on the slides about social learning that I struggled with understanding the math but understanding the concept was completely fine. I still need to improve on the mathematics aspect of things.
+### What were the challenges I have encountered/observed and how well did (I / my team) handle them?
+For our assignment, we have completed the writing for our agent-based model and behavioural model sections and we are still looking for our last model. This is not an obstacle we have overcome but we are planning to look through slides from previous classes to try and find the most appropriate model. 
+### What would I do better next time and with what anticipated results?
+We have our mid semester break next week, giving us plenty of time to find a third model for our assignment. 
+### What theory proved to be useful and why? What have I learnt from this?
+I am continuing with taking notes during class and it is working well.
+I am also keeping in touch with group members to make sure everyone is still motivated to complete the assignment and do well in it.
