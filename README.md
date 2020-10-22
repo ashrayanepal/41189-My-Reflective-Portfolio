@@ -158,3 +158,14 @@ My weakness is that I am not that strong of a leader and do not have a strong vo
 We initially struggled with how to split the workload, but we eventually decided that splitting us into different sections would be better than all of us working on each section together. 
 ### What needs to be done by next week’s meeting?
 By next week, our group should have started on section 4 and should have completed our feedback to the other group. We also should have received feedback and will be adding onto our previous sections based off the feedback.
+
+## Week 10
+### What progress has been made in the assignment this week?
+This week our group used the other groups feedback and slightly changed our first couple of sections based on it. Only minor changes were made because of lack of feedback. We also made a bit of progress on section 4. We waited for the tutor to come around to our breakout room but he was unable to.
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+My strengths I believe are still being able to converse in a social situation. I also feel like my previous constant communication with group members allows them to freely talk to me however they like which is good for group work. 
+My weakness is still in the leadership role.
+### What challenges did our team overcome this week working on the assignment?
+We did not encounter many challenges this week but we also did not get a lot of assignment work done since last lesson, so it is hard to judge challenges. 
+### What needs to be done by next week’s meeting?
+Next meeting, we should have done majority of section 4 and hopefully get in contact with the tutor.
