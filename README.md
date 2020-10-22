@@ -128,3 +128,20 @@ I am continuing with taking notes during class and it is working well.
 I am also keeping in touch with group members to make sure everyone is still motivated to complete the assignment and do well in it.
 
 ## Mid-Semester Break
+
+## Week 8
+### What have I learnt this week?
+This week we learnt two new concepts. These were the Colonel Blotto Game and the Prisoners Dilemma. The Colonel Blotto Game is a strategy-based concept that was founded during war, where two colonels from opposing camps would plot against each other to win as many battle fronts as possible to win the war. They had to strategise based on the number of resources they had and their opponent had. This concept has been brought out in the modern world to fight against issues in politics, sports and even against COVID-19. The Prisoners Dilemma is a concept where two prisoners are offered a deal where they have to either confess or remain silent. If both prisoners remain silent then they both serve out a short sentence. If they both confess, then they both serve out a slightly longer sentence. However, if one prisoner confesses and the other remains silent, then the prisoner that remains silent will serve out a very long sentence, while the prisoner that confesses walks away from jail time. This concept is usually applied in crime and they try to get information out of the criminals. 
+### What do I ‘now know’ that I did not know before?
+I had previously heard of the Prisoners Dilemma and had always thought it would be best for both parties if they were to choose to confess. If both confess, then they only end up with a slightly longer sentence and if the other person stays silent then the person confessing gets no jail time. Adding up the amount of jail time received for picking each one, it is determined that confess is the safer option to pick. I also now know that early war was planned using the Colonel Blotto Game and found that very interesting. 
+### What insights have I gained?
+I have gained two new lenses to model the world with. I also found it interesting to gain insight as to how colonels would strategise during war. 
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I have observed no new strengths or weaknesses
+### What were the challenges I have encountered/observed and how well did (I / my team) handle them?
+After the mid semester break, we still had not come up with a third model. However, after this specific lesson we had decided that the Colonel Blotto Game was the best third model for our assignment as it best fits with the topic of COVID-19 prevention. We came to this conclusion through a quick group call after the meeting to discuss if that was the best option out of the remaining models and decided that it was.
+### What would I do better next time and with what anticipated results?
+For this week, we need to submit our assignment. From there we need to provide feedback to another groups assignment and get started on our week 12 submission. 
+### What theory proved to be useful and why? What have I learnt from this?
+I am continuing taking notes while listening in class.
+I have also remained in constant communication with my group to keep everyone engaged in our assignment and it seems to be working as everyone is doing their parts.
