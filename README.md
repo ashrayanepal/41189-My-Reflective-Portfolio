@@ -147,3 +147,14 @@ I am continuing taking notes while listening in class.
 I have also remained in constant communication with my group to keep everyone engaged in our assignment and it seems to be working as everyone is doing their parts.
 
 ## Questions are different from here due to rest of the weeks being dedicated to assignment work only.
+
+## Week 9 
+### What progress has been made in the assignment this week?
+This week was just for allocation of sections to individuals. I was left with section 6, two people are on section 5, and one person left with section 4. We also waited in a breakout room for the tutor, but he could not get to us that lesson. We also started writing our feedback for the other groups. 
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I noticed that my strengths are that I am good in social situations and can keep a conversation going. 
+My weakness is that I am not that strong of a leader and do not have a strong voice amongst the group. However, other people in the group fit this role so it is not a necessity. 
+### What challenges did our team overcome this week working on the assignment?
+We initially struggled with how to split the workload, but we eventually decided that splitting us into different sections would be better than all of us working on each section together. 
+### What needs to be done by next week’s meeting?
+By next week, our group should have started on section 4 and should have completed our feedback to the other group. We also should have received feedback and will be adding onto our previous sections based off the feedback.
