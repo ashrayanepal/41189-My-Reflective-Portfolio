@@ -145,3 +145,5 @@ For this week, we need to submit our assignment. From there we need to provide f
 ### What theory proved to be useful and why? What have I learnt from this?
 I am continuing taking notes while listening in class.
 I have also remained in constant communication with my group to keep everyone engaged in our assignment and it seems to be working as everyone is doing their parts.
+
+## Questions are different from here due to rest of the weeks being dedicated to assignment work only.
