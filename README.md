@@ -169,3 +169,14 @@ My weakness is still in the leadership role.
 We did not encounter many challenges this week but we also did not get a lot of assignment work done since last lesson, so it is hard to judge challenges. 
 ### What needs to be done by next week’s meeting?
 Next meeting, we should have done majority of section 4 and hopefully get in contact with the tutor.
+
+## Week 11
+### What progress has been made in the assignment this week?
+This week, we got in contact with tutor because we realised the way we split the workload was in such a way that only one person is doing work at a time and the first section is hard to do on your own. Our tutor suggested that we all work on section 4 together so we can all learn how to code in python. We had done around half of section 4 before this talk with the tutor. We also learnt that we got an extension on the assignment until the 6th of November rather than the 23rd of October which will give us more time to put together a quality report.
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+Strengths are still in social situations.
+Weaknesses are my leadership skills as well as python coding as I had not had any previous experience with it before this week.
+### What challenges did our team overcome this week working on the assignment?
+We had to backtrack on the way we split the workload due to section 4 being the hardest section and only one person doing it. We also came to this decision because we knew section 5 and 6 would be a lot easier to complete with the completion of section 4.
+### What needs to be done by next week’s meeting?
+By next week we need to have finished section 4 and then moved on to section 5 and 6. Section 7 which are the reflections can come after everything is done.
