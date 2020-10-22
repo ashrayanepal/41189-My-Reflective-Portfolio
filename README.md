@@ -180,3 +180,14 @@ Weaknesses are my leadership skills as well as python coding as I had not had an
 We had to backtrack on the way we split the workload due to section 4 being the hardest section and only one person doing it. We also came to this decision because we knew section 5 and 6 would be a lot easier to complete with the completion of section 4.
 ### What needs to be done by next week’s meeting?
 By next week we need to have finished section 4 and then moved on to section 5 and 6. Section 7 which are the reflections can come after everything is done.
+
+## Week 12
+### What progress has been made in the assignment this week?
+This week, we learnt that class was cancelled and that the tutor was running 1 on 1 sessions with students to help with their assignments. We decided we were okay as we were pretty much complete with section 4 which was the harder section to complete. We are currently up to section 5 and 6 which is being split as two people on 5 and the other two on 6. 
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+I noticed that I am a quick learner as I learned how to use python coding fairly quick. This could also be a result of previous knowledge of java. 
+No new weaknesses observed.
+### What challenges did our team overcome this week working on the assignment?
+This week, we ended up struggling on some sections of the code and how to adapt the code given on canvas to our own code. To remedy this, we had a group meeting where we each ran through each other’s code and fixed errors and mistakes. 
+### What needs to be done by next week’s meeting?
+That concludes the meetings we have during class as class is over, but for our next out of class meeting, we should have made significant progress on sections 5 and 6 and we should be near ready to answer the reflection questions in section 7.
