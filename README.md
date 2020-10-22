@@ -126,3 +126,5 @@ We have our mid semester break next week, giving us plenty of time to find a thi
 ### What theory proved to be useful and why? What have I learnt from this?
 I am continuing with taking notes during class and it is working well.
 I am also keeping in touch with group members to make sure everyone is still motivated to complete the assignment and do well in it.
+
+## Mid-Semester Break
